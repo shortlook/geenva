@@ -7,9 +7,6 @@ You can see my projects [honkers](https://github.com/inkthought-labs/honkers) an
 <b>Languages:</b>
 JavaScript, HTML, CSS
 
-<iframe
-  src="https://nowplaying.aidenwallis.co.uk/5f4c8062ef346c0d0a3db23e"
-  style="width:300px; height:70px;"
-></iframe>
+<embed type="text/html" src="https://nowplaying.aidenwallis.co.uk/5f4c8062ef346c0d0a3db23e" width="300" height="70">
 
 ![flarely's github stats](https://github-readme-stats.vercel.app/api?username=flarely&count_private=true&show_icons=true&theme=dark)
