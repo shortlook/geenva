@@ -2,7 +2,7 @@
 
 I'm the developer and founder of inkthought labs, where we create nice little bots.
 
-You can see my projects[honkers](https://github.com/inkthought-labs/honkers) and [inkbot](https://github.com/inkthought-labs/inkbot) by clicking on the links.
+You can see my projects [honkers](https://github.com/inkthought-labs/honkers) and [inkbot](https://github.com/inkthought-labs/inkbot) by clicking on the links.
 
 <b>Languages:</b>
 JavaScript, HTML, CSS
