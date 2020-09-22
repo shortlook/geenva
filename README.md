@@ -2,7 +2,7 @@
 
 I'm the developer and founder of <i>inkthought labs</i>, where we create nice little bots.
 
-You can see my projects [honkers](https://github.com/inkthought-labs/honkers) and [a website I made with my friends](http://marcuscodes.me) by clicking on the links.
+You can see my projects [honkers](https://github.com/inkthought-labs/honkers), [the inkthought labs website](https://inkthought.codes), and [my personal website](https://marcuscodes.me) by clicking on the links.
 
 <h3>Languages & Tools</h3>
 JavaScript, node.js, discord.js, HTML5, CSS, NPM, Visual Studio Code, MacOS, Git (CLI), GitHub<br> </br>
