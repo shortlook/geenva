@@ -1,4 +1,4 @@
-<h1>Hi! I'm geneva.</h1>
+<h1><a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> geneva</h1>
 
 I'm the developer and founder of <i>inkthought labs</i>, where we create nice little bots.
 
