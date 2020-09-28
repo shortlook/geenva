@@ -9,4 +9,5 @@ JavaScript, node.js, discord.js, HTML5, CSS, NPM, Visual Studio Code, MacOS, Git
 
 
 ![flarely's github stats](https://github-readme-stats.vercel.app/api?username=flarely&count_private=true&show_icons=true&bg_color=45,e36a64,954ac7&title_color=ffffff&text_color=ffffff)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flarely&layout=compact&bg_color=45,e36a64,954ac7&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flarely&layout=compact&bg_color=45,e36a64,954ac7&title_color=ffffff&text_color=ffffff)<br>
+![Viewer Count](https://profile-counter.glitch.me/flarely/count.svg)
