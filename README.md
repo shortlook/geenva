@@ -8,10 +8,10 @@ You can see my projects [honkers](https://github.com/inkthought-labs/honkers), [
 JavaScript, node.js, discord.js, HTML5, CSS, NPM, Visual Studio Code, MacOS, Git (CLI), GitHub<br> </br>
 
 
-![flarely's github stats](https://github-readme-stats.vercel.app/api?username=flarely&count_private=true&show_icons=true&bg_color=45,e36a64,954ac7&title_color=ffffff&text_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flarely&layout=compact&bg_color=45,e36a64,954ac7&title_color=ffffff&text_color=ffffff)
+![flarely's github stats](https://github-readme-stats.vercel.app/api?username=flarely&hide_border=true&show_icons=true&include_all_commits=true&bg_color=45,e36a64,954ac7&title_color=ffffff&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flarely&hide_border=true&layout=compact&bg_color=45,e36a64,954ac7&title_color=ffffff&text_color=ffffff)
 <a href="https://wakatime.com/@geneva">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=geneva&layout=compact&bg_color=45,e36a64,954ac7&title_color=ffffff&text_color=ffffff">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=geneva&layout=compact&hide_border=true&bg_color=45,e36a64,954ac7&title_color=ffffff&text_color=ffffff">
 </a> 
 <br>
 <p align="center"> 
