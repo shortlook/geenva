@@ -16,7 +16,7 @@ JavaScript, node.js, discord.js, HTML5, CSS, NPM, Visual Studio Code, MacOS, Git
 <br>
 <p align="center">
   My Discord server<br>
-  <a href="https://discord.gg/GxfQh7H"><img src="https://invidget.switchblade.xyz/693044826492633149" alt="inkthought server invite"></img></a>
+  <a href="https://discord.gg/GxfQh7H"><img src="https://invidget.switchblade.xyz/693044826492633149" alt="inkthought server invite"></a>
   </p>
 <p align="center"> 
   Viewer count<br>
