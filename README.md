@@ -14,6 +14,10 @@ JavaScript, node.js, discord.js, HTML5, CSS, NPM, Visual Studio Code, MacOS, Git
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=geneva&layout=compact&hide_border=true&bg_color=45,e36a64,954ac7&title_color=ffffff&text_color=ffffff">
 </a> 
 <br>
+<p align="center">
+  My Discord server<br<
+  <img src="https://invidget.switchblade.xyz/693044826492633149" alt="inkthought server invite"></img>
+  </p>
 <p align="center"> 
   Viewer count<br>
   <img src="https://profile-counter.glitch.me/flarely/count.svg" />
