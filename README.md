@@ -1,6 +1,6 @@
 <h1><a href="https://marcuscodes.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> geneva</h1>
 
-I'm the developer and founder of <i>inkthought labs</i>, where we create nice little bots.
+I'm the developer and founder of <i>[inkthought labs](https://github.com/inkthought)</i>, where we create nice little bots.
 
 You can see my projects [honkers](https://github.com/inkthought/honkers), [the inkthought labs website](https://inkthought.codes), and [my personal website](https://marcuscodes.me) by clicking on the links.
 
